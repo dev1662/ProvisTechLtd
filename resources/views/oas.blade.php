@@ -867,14 +867,7 @@
     <script type='text/javascript' src='https://www.oas36ty.com/wp-content/themes/thesaasx/assets/js/page.min.js?ver=1.1.4'
         id='thesaasx-js'></script>
     <script type='text/javascript' id='thesaasx-js-after'>
-        jQuery(function($) {
-            page.config({
-                googleApiKey: 'AIzaSyDRBLFOTTh2NFM93HpUA4ZrA99yKnCAsto',
-                googleAnalyticsId: '',
-                reCaptchaV3SiteKey: '',
-                contactFormAction: 'https://www.oas36ty.com/wp-admin/admin-ajax.php'
-            });
-        });
+       
     </script>
     <script type='text/javascript' src='https://www.oas36ty.com/wp-includes/js/wp-embed.min.js?ver=5.6.11' id='wp-embed-js'>
     </script>
